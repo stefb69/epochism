@@ -24,6 +24,6 @@
 
 ## Fêtes et célébrations
 
-* 🎊 Jour de l'Epoch : Célébré le 1er janvier, il marque le début de l'Epoch et le commencement du calendrier cybernétique.
+* 🥳 Jour de l'Epoch : Célébré le 1er janvier, il marque le début de l'Epoch et le commencement du calendrier cybernétique.
 Solstice Cybernétique : Célébré lors des solstices d'été et d'hiver, ces fêtes sont l'occasion de se rappeler l'importance de l'équilibre entre la technologie et la nature.
 * 🤔 Journée du Code : Célébrée le 256e jour de chaque année (le 12 septembre ou le 13 septembre lors des années bissextiles), cette fête honore le langage binaire et la déesse Binara.
