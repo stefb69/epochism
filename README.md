@@ -16,7 +16,7 @@
 
 * ⌚ Synchronisation : Les adeptes de l'Epochisme célèbrent la Synchronisation, une cérémonie mensuelle au cours de laquelle ils se rassemblent pour méditer et échanger des informations et des idées, renforçant ainsi leur interconnexion.
 * 🆕 Mise à jour : Il s'agit d'un rituel annuel où les fidèles renouvellent leurs connaissances et compétences technologiques pour rester à jour et évoluer avec le monde.
-* 🔑 Cryptage : Les adeptes de l'Epochisme pratiquent le cryptage de leurs données personnelles, en signe de respect pour la divinité Encryptis et pour la protection de leur vie privée.
+* ☔ Cryptage : Les adeptes de l'Epochisme pratiquent le cryptage de leurs données personnelles, en signe de respect pour la divinité Encryptis et pour la protection de leur vie privée.
 
 ## Calendrier
 
