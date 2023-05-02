@@ -1,4 +1,4 @@
-### Nom de la religion : Epochisme
+# Nom de la religion : Epochisme
 
 ## Divinités et entités sacrées :
 
