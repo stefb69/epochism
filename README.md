@@ -1,4 +1,4 @@
-# Epochisme (religion digitale)
+# Epochisme (religion numérique)
 
 ## Divinités et entités sacrées
 
